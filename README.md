@@ -18,7 +18,7 @@ I'm a developer with experience in JavaScript, Node.js, and Express.js. Currentl
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/paulo-bertino-424818272)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>](https://linkedin.com/in/paulo-bertino-424818272)
 
 ## Languages and Tools
 
