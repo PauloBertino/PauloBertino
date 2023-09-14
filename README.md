@@ -1,6 +1,6 @@
 # Bienvenido a Mi Perfil de GitHub 👋
 
-![Imagen Fondo]([URL_de_tu_imagen](https://blog.educacionit.com/wp-content/uploads/2018/09/shutterstock-10338536170938-620x354-01.jpg))
+![Imagen Fondo](https://blog.educacionit.com/wp-content/uploads/2018/09/shutterstock-10338536170938-620x354-01.jpg)
 
 ¡Hola! Soy Paulo Alejandro Bertino, un apasionado desarrollador de backend de Argentina, profundamente involucrado en el mundo de la programación y la tecnología.
 
