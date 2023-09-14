@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenido a Mi Perfil de GitHub 👋</h1>
 
 <p align="center">
-  <img src="[[URL_de_tu_imagen](https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg)]" alt="Imagen Portada">
+  <img src="https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg" alt="Imagen Portada">
 </p>
 
 ¡Hola! Soy Paulo Alejandro Bertino, un apasionado desarrollador de backend de Argentina, profundamente involucrado en el mundo de la programación y la tecnología.
